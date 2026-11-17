@@ -1,0 +1,6 @@
+{
+  "name": "هرم ميكانيكا الكم",
+  "description": "دليل مراجعة تفاعلي لميكانيكا الكم مصمم على هيئة هرم حجري من خمسة مستويات، يضم شروحات مبسطة ومعادلات رياضية واختبارات سريعة وتتبعاً للتقدم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
